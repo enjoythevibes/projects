@@ -18,6 +18,8 @@
 
 [HyperCasual-Test](https://github.com/enjoythevibes/HyperCasual-Test) (Android) (Unity) Гиперказуалка
 
+[SpaceShooter-Test](https://github.com/enjoythevibes/SpaceShooter-Test) (PC) (Unity)
+
 ## Еще какие-то демки без исходного кода
 
 [https://youtu.be/eyMOowghva0](https://youtu.be/eyMOowghva0)
