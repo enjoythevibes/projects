@@ -20,6 +20,8 @@
 
 [SpaceShooter-Test](https://github.com/enjoythevibes/SpaceShooter-Test) (PC) (Unity)
 
+[ClickAndFollow-Test](https://github.com/enjoythevibes/ClickAndFollow-Test) (Android) (Unity)
+
 ## Еще какие-то демки без исходного кода
 
 [https://youtu.be/eyMOowghva0](https://youtu.be/eyMOowghva0)
