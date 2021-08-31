@@ -22,6 +22,10 @@
 
 [ClickAndFollow-Test](https://github.com/enjoythevibes/ClickAndFollow-Test) (Android) (Unity)
 
+[StockMarket-Test](https://github.com/enjoythevibes/StockMarket-Test) (Android) (Unity) 
+
+[Unity-Test](https://github.com/enjoythevibes/Unity-Test) (Unity) 4 задания
+
 ## Еще какие-то демки без исходного кода
 
 [https://youtu.be/eyMOowghva0](https://youtu.be/eyMOowghva0)
