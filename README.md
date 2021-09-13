@@ -26,6 +26,8 @@
 
 [Unity-Test](https://github.com/enjoythevibes/Unity-Test) (Unity) 4 задания
 
+[PingPong2D-Test] (https://github.com/enjoythevibes/PingPong2D-Test) (PC / Android) (Unity)
+
 ## Еще какие-то демки без исходного кода
 
 [https://youtu.be/eyMOowghva0](https://youtu.be/eyMOowghva0)
